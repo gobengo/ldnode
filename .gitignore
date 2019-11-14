@@ -1,5 +1,17 @@
-node_modules/
-*~
+# Keep this in sync with .npmignore
 *.swp
-.tern-port
-npm-debug.log
+*~
+/.idea
+/.nyc_output
+/.tern-port
+/.db
+/accounts
+/config.json
+/config/account-template
+/config/email-templates
+/config/templates
+/config/views
+/data
+/coverage
+/node_modules
+/npm-debug.log
